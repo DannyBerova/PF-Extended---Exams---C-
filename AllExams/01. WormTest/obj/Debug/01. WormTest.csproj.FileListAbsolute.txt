@@ -1,0 +1,5 @@
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\01. WormTest\bin\Debug\_01.WormTest.exe.config
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\01. WormTest\bin\Debug\_01.WormTest.exe
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\01. WormTest\bin\Debug\_01.WormTest.pdb
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\01. WormTest\obj\Debug\_01.WormTest.exe
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\01. WormTest\obj\Debug\_01.WormTest.pdb

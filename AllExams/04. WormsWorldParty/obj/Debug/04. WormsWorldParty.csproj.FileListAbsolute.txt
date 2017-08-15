@@ -1,0 +1,5 @@
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\04. WormsWorldParty\bin\Debug\_04.WormsWorldParty.exe.config
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\04. WormsWorldParty\bin\Debug\_04.WormsWorldParty.exe
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\04. WormsWorldParty\bin\Debug\_04.WormsWorldParty.pdb
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\04. WormsWorldParty\obj\Debug\_04.WormsWorldParty.exe
+D:\downloads i-net\movies\softuni\Programming-Fundamentals-CSharp-master\Programming-Fundamentals-CSharp-master\AllExams\04. WormsWorldParty\obj\Debug\_04.WormsWorldParty.pdb
