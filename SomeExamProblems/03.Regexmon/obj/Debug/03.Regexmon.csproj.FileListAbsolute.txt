@@ -1,0 +1,6 @@
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\bin\Debug\03.Regexmon.exe.config
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\bin\Debug\03.Regexmon.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\bin\Debug\03.Regexmon.pdb
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\obj\Debug\03.Regexmon.csprojResolveAssemblyReference.cache
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\obj\Debug\03.Regexmon.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\03.Regexmon\obj\Debug\03.Regexmon.pdb

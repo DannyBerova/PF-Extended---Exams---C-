@@ -1,0 +1,6 @@
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\bin\Debug\02.PokemonDon'tGo.exe.config
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\bin\Debug\02.PokemonDon'tGo.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\bin\Debug\02.PokemonDon'tGo.pdb
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\obj\Debug\02.PokemonDon'tGo.csprojResolveAssemblyReference.cache
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\obj\Debug\02.PokemonDon'tGo.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\02.PokemonDon'tGo\obj\Debug\02.PokemonDon'tGo.pdb

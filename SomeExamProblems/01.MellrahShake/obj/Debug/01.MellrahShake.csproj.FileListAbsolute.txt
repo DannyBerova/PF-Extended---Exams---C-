@@ -1,0 +1,6 @@
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\bin\Debug\01.MellrahShake.exe.config
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\bin\Debug\01.MellrahShake.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\bin\Debug\01.MellrahShake.pdb
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\obj\Debug\01.MellrahShake.csprojResolveAssemblyReference.cache
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\obj\Debug\01.MellrahShake.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\01.MellrahShake\obj\Debug\01.MellrahShake.pdb

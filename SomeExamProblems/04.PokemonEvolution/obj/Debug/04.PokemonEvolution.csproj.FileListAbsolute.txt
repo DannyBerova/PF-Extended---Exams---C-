@@ -1,0 +1,6 @@
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\bin\Debug\04.PokemonEvolution.exe.config
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\bin\Debug\04.PokemonEvolution.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\bin\Debug\04.PokemonEvolution.pdb
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\obj\Debug\04.PokemonEvolution.csprojResolveAssemblyReference.cache
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\obj\Debug\04.PokemonEvolution.exe
+C:\Danny's stuff\GitHubProjects\Exercises-Programming-Fundamentals-Extended-May-2017\SomeExamProblems\04.PokemonEvolution\obj\Debug\04.PokemonEvolution.pdb
