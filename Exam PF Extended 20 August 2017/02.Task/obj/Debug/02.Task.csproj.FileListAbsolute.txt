@@ -1,0 +1,6 @@
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\bin\Debug\02.Task.exe.config
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\bin\Debug\02.Task.exe
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\bin\Debug\02.Task.pdb
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\obj\Debug\02.Task.csprojResolveAssemblyReference.cache
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\obj\Debug\02.Task.exe
+C:\Users\Danny\documents\visual studio 2017\Projects\Exam PF Extended 20 August 2017\02.Task\obj\Debug\02.Task.pdb
