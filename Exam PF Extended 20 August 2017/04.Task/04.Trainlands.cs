@@ -23,7 +23,6 @@
             {
                 string[] currentCommand = inputLine
                     .Split(new string[] { " -> ", " : "}, StringSplitOptions.None);
-
                 
                 if (currentCommand.Length > 2)
                 {
@@ -57,10 +56,10 @@
                         trains[firstTrain] = new List<Wagon>();
                     }
 
-                    //List<Wagon> toAdd = trains[secondTrain];
+                    List<Wagon> toAdd = trains[secondTrain];
 
                     trains[firstTrain].Clear();
-                    trains[firstTrain].AddRange(trains[secondTrain]);
+                    trains[firstTrain].AddRange(toAdd);
                 }
                 else if (currentCommand.Length == 2)
                 {
@@ -72,8 +71,8 @@
                         trains[firstTrain] = new List<Wagon>();
                     }
 
-                    //List<Wagon> toAdd = trains[secondTrain];
-                    trains[firstTrain].AddRange(trains[secondTrain]);
+                    List<Wagon> toAdd = trains[secondTrain];
+                    trains[firstTrain].AddRange(toAdd);
                     trains.Remove(secondTrain);
                 }
                 
